@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/huksley/jira-outer-join/compare/v1.2.0...v1.2.1) (2020-04-04)
+
+
+### Bug Fixes
+
+* show subtask row only if recursive ([b5998c8](https://github.com/huksley/jira-outer-join/commit/b5998c845165dbda95b95e4d9fa6876d32f97b88))
+
+## [1.2.0](https://github.com/huksley/jira-outer-join/compare/v1.1.0...v1.2.0) (2020-04-04)
+
+
+### Features
+
+* recursive fetch tasks ([09e6862](https://github.com/huksley/jira-outer-join/commit/09e68625e521324b32b1149753b95b41a17f6f00))
+
 ## [1.1.0](https://github.com/huksley/jira-outer-join/compare/v1.0.13...v1.1.0) (2020-04-04)
 
 
