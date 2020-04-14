@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.1](https://github.com/huksley/jira-outer-join/compare/v1.3.0...v1.3.1) (2020-04-14)
+
+## [1.3.0](https://github.com/huksley/jira-outer-join/compare/v1.2.1...v1.3.0) (2020-04-14)
+
+
+### Features
+
+* allow to choose subtask row display ([24090cf](https://github.com/huksley/jira-outer-join/commit/24090cff77d346fe6f6ad8695c5539efc9a841ee))
+* sort according to spreadsheet order ([af0191c](https://github.com/huksley/jira-outer-join/commit/af0191ce59457a94555fd6474a37485f37a9a32f))
+
 ### [1.2.1](https://github.com/huksley/jira-outer-join/compare/v1.2.0...v1.2.1) (2020-04-04)
 
 
